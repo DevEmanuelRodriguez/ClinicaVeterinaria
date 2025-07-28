@@ -73,7 +73,7 @@ public class VerDatos extends javax.swing.JFrame {
         jPanel10.setBackground(new java.awt.Color(255, 238, 147));
 
         btnEditar.setBackground(new java.awt.Color(237, 219, 205));
-        btnEditar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Acer\\Downloads\\edit_121277.png")); // NOI18N
+        btnEditar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Acer\\Desktop\\Curso TodoCode\\2Java POO\\Proyectos_completos_para_portfolio\\peluqueriaCanina2\\img\\edit_121277.png")); // NOI18N
         btnEditar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnEditarActionPerformed(evt);
@@ -81,7 +81,7 @@ public class VerDatos extends javax.swing.JFrame {
         });
 
         btnEliminar.setBackground(new java.awt.Color(237, 219, 205));
-        btnEliminar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Acer\\Downloads\\trash_bin_icon-icons.com_67981.png")); // NOI18N
+        btnEliminar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Acer\\Desktop\\Curso TodoCode\\2Java POO\\Proyectos_completos_para_portfolio\\peluqueriaCanina2\\img\\trash_bin_icon-icons.com_67981.png")); // NOI18N
         btnEliminar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnEliminarActionPerformed(evt);
@@ -288,15 +288,8 @@ public class VerDatos extends javax.swing.JFrame {
     private javax.swing.JButton btnEliminar;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
-    private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel10;
     private javax.swing.JPanel jPanel2;
-    private javax.swing.JPanel jPanel3;
-    private javax.swing.JPanel jPanel4;
-    private javax.swing.JPanel jPanel5;
-    private javax.swing.JPanel jPanel6;
-    private javax.swing.JPanel jPanel7;
-    private javax.swing.JPanel jPanel8;
     private javax.swing.JPanel jPanel9;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTable tablaMascotas;
