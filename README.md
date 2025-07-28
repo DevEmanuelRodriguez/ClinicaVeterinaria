@@ -44,7 +44,7 @@ CREATE DATABASE peluqueria_canina;
 
 3. Configura persistence.xml con tus credenciales de MySQL.
 
-4. Abre el proyecto en tu IDE y ejecuta Main.java.
+4. Abre el proyecto en tu IDE y ejecuta el proyecto.
 
 
 ****************************************************************************
