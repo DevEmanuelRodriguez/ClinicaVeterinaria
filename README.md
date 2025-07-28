@@ -35,7 +35,7 @@ Aplicación de escritorio para gestionar una peluquería canina, desarrollada en
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/DevEmanuelRodriguez/peluqueriaCanina2.git
+   git clone https://github.com/DevEmanuelRodriguez/ClinicaVeterinaria.git
 
 
 2. Crea la base de datos en MySQL:
