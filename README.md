@@ -49,7 +49,9 @@ CREATE DATABASE peluqueria_canina;
 
 ****************************************************************************
 Estructura del Proyecto
+
 src/
+
 ├── igu/                  # Interfaz gráfica (Swing)
 
 ├── logica/               # Lógica del negocio
