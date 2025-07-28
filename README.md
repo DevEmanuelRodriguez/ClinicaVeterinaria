@@ -1,10 +1,10 @@
-# 🐶 Peluquería Canina - Sistema CRUD en Java
+# Peluquería Canina - Sistema CRUD en Java
 
 Aplicación de escritorio para gestionar una peluquería canina, desarrollada en **Java** con **Swing**, **JPA** y **MySQL**. Implementa funcionalidades **CRUD** completas para mascotas y clientes.
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Registro, modificación y eliminación de mascotas
 - Gestión de datos de clientes
@@ -13,7 +13,7 @@ Aplicación de escritorio para gestionar una peluquería canina, desarrollada en
 
 ---
 
-## 🧰 Tecnologías
+## Tecnologías
 
 - Java 8+
 - Swing (GUI)
@@ -23,7 +23,7 @@ Aplicación de escritorio para gestionar una peluquería canina, desarrollada en
 
 ---
 
-## ⚙️ Requisitos
+## Requisitos
 
 - JDK instalado
 - MySQL en funcionamiento
@@ -31,7 +31,7 @@ Aplicación de escritorio para gestionar una peluquería canina, desarrollada en
 
 ---
 
-## 🚀 Instrucciones
+## Instrucciones
 
 1. Clonar el repositorio:
    ```bash
