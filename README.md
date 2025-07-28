@@ -51,8 +51,11 @@ CREATE DATABASE peluqueria_canina;
 Estructura del Proyecto
 src/
 ├── igu/                  # Interfaz gráfica (Swing)
+
 ├── logica/               # Lógica del negocio
+
 ├── persistencia/         # Acceso a datos (JPA)
+
 └── PeluqueriaCanina2.java  # Clase principal
 
 👨‍💻 Autor
